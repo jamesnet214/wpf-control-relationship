@@ -56,3 +56,17 @@ System.Windows.UIElement
 > UIElement는 레이아웃, 입력 및 이벤트를 비롯한 핵심 하위 시스템을 정의합니다.    
 > 레이아웃은 WPF의 핵심 개념입니다.    
 <br />
+
+## FrameworkElement
+```namespace
+System.Windows.FrameworkElement
+```
+> 
+<br />
+
+## Control
+```namespace
+System.Windows.Controls.Control
+```
+> 
+<br />
