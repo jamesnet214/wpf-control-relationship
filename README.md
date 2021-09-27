@@ -69,9 +69,9 @@ System.Windows.FrameworkElement
 ```
 
 ### 주요 프로퍼티
-DataContext
-
-> 
+DataContext  
+IsHitTestVisible
+ 
 <br />
 
 ## Control
