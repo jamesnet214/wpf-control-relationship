@@ -57,7 +57,10 @@ System.Windows.UIElement
 > 레이아웃은 WPF의 핵심 개념입니다.    
 
 ### 주요 메서드
-OnPreviewMouseDown(MouseButtonEventArgs)
+OnPreviewMouseDown(MouseButtonEventArgs)  
+OnMouseDown  
+
+> 버블링과 터널링에 의해 동작하는 이벤트들이 모두 UIElement 클래스에 포함되어 있습니다.
 
 <br />
 
