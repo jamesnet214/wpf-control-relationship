@@ -49,7 +49,7 @@ System.Windows.Media.Visual
 > 각각 선택적인 포함 그리기 명령과 해당 명령을 렌더링 하는 방법에 대한 메타데이터를 제공합니다.    
 
 ### 주요 속성
-Dispatcher
+System.Windows.Threading.Dispatcher Dispatcher
 
 <br />
 
@@ -73,8 +73,8 @@ System.Windows.FrameworkElement
 ```
 
 ### 주요 프로퍼티
-DataContext  
-IsHitTestVisible
+object DataContext  
+bool IsHitTestVisible
  
 <br />
 
