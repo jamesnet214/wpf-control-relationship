@@ -30,6 +30,10 @@ System.Threading.DispatcherObject
 > DispatcherObject는 Dispatcher를 갖고 있는 클래스입니다.    
 > Dispatcher는 쓰레드에 대해서 관리를 하는 역할을 하고 있습니다.    
 > 즉 하나의 Object에 대해서 단독으로 실행되는 작업을 관리하는 기능을 하고 있습니다.    
+
+### 주요 속성
+System.Windows.Threading.Dispatcher Dispatcher
+
 <br />
 
 ## DependencyObject
@@ -48,8 +52,6 @@ System.Windows.Media.Visual
 > Visual는 시각적 개체 트리를 빌드 하기 위해    
 > 각각 선택적인 포함 그리기 명령과 해당 명령을 렌더링 하는 방법에 대한 메타데이터를 제공합니다.    
 
-### 주요 속성
-System.Windows.Threading.Dispatcher Dispatcher
 
 <br />
 
@@ -82,5 +84,6 @@ bool IsHitTestVisible
 ```namespace
 System.Windows.Controls.Control
 ```
-> 
+### 주요 프로퍼티
+System.Windows.Media.Brush Background
 <br />
