@@ -80,8 +80,8 @@ System.Windows.FrameworkElement
 
 
 ### 주요 프로퍼티
-`object` DataContext  
-`bool` IsHitTestVisible
+- `object` DataContext  
+- `bool` IsHitTestVisible
  
 <br />
 
@@ -93,6 +93,6 @@ System.Windows.Controls.Control
 <br />
 
 ### 주요 프로퍼티
-System.Windows.Media.Brush Background
+- System.Windows.Media.Brush Background
 
 <br />
