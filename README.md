@@ -80,8 +80,8 @@ System.Windows.FrameworkElement
 
 
 ### 주요 프로퍼티
-object DataContext  
-bool IsHitTestVisible
+`object` DataContext  
+`bool` IsHitTestVisible
  
 <br />
 
