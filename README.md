@@ -74,12 +74,9 @@ OnPreviewMouseDown(MouseButtonEventArgs)
 System.Windows.FrameworkElement
 ```
 
-> UIElment에 의해 도입된 기본 레이아웃 계약을 기반으로 하며    
-> 레이아웃 제작자가 속성 중심 레이아웃 의미 체계 집합의 일관성을    
-> 보다 쉽게 유지할 수 있도록 레이아웃 "슬롯" 게념을 추가합니다.    
-> HorizontalAlignment, Margin 등의 속성은 레이아웃 컨테이너 내의 일관된 동작을    
-> FrameworkElement에서 파생된 모든 구성 요소에 제공합니다.    
-> FrameworkElement는 보다 쉬운 API 노출을 WPF의 핵심 계층에 있는 여러 기능에 제공합니다.
+- UIElment에 의해 도입된 기본 레이아웃 계약을 기반으로 하며 레이아웃 제작자가 속성 중심 레이아웃 의미 체계 집합의 일관성을 보다 쉽게 유지할 수 있도록 레이아웃 "슬롯" 게념을 추가합니다.    
+- HorizontalAlignment, Margin 등의 속성은 레이아웃 컨테이너 내의 일관된 동작을 FrameworkElement에서 파생된 모든 구성 요소에 제공합니다.    
+- FrameworkElement는 보다 쉬운 API 노출을 WPF의 핵심 계층에 있는 여러 기능에 제공합니다.
 
 
 ### 주요 프로퍼티
