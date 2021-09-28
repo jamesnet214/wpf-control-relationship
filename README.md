@@ -89,7 +89,10 @@ System.Windows.FrameworkElement
 System.Windows.Controls.Control
 ```
 
-<br />
+- Control의 가장 중요한 기능은 템플릿 설정입니다. (상세히 다룰 예정)    
+- Control은 Foreground, Background, Padding 등의 스톡 속성 집합을 제공합니다.    
+- Button 같은 컨트롤에서 Object형식의 "Content"라는 속성을 볼 수 있습니다.    
+
 
 ### 주요 프로퍼티
 - System.Windows.Media.Brush Background
