@@ -16,7 +16,7 @@
  </p>
 </div>
 
-  <br />
+<br />
   
 ## 상속관계도
 ![image](https://user-images.githubusercontent.com/68521148/134800050-a19b73b1-db8a-485a-916a-98be327abe8f.PNG)
