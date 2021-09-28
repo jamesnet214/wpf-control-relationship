@@ -89,6 +89,10 @@ System.Windows.FrameworkElement
 ```namespace
 System.Windows.Controls.Control
 ```
+
+<br />
+
 ### 주요 프로퍼티
 System.Windows.Media.Brush Background
+
 <br />
