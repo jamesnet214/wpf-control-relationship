@@ -97,3 +97,10 @@ System.Windows.Controls.Control
 - System.Windows.Media.Brush Background
 
 <br />
+
+## ContentControl
+```namespace
+System.Windows.Controls.Control.ContentControl
+```
+
+- 하나의 콘텐츠를 갖고 있는 모든 컨트롤의 기본 클래스입니다.
