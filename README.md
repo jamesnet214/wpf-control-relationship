@@ -1,24 +1,16 @@
-<div align=center>
-  <h2>WPF Control Relationship</h2>
+## WPF Control Relationship
 
-  <br/>
+이 리포지토리는 WPF Control Relationship에 대해 기술한 리포지토리입니다. <br />
+이 리포지토리는 DevNcore팀이 관리하고 있습니다.  
+
+<a href="https://github.com/devncore/devncore"><strong>더 알아보기 »</strong></a>
  
-  이 레포지토리는 DevNcore팀이 관리하고 있습니다.
-  <br />
-  
-  <a href="https://github.com/devncore/devncore"><strong>더 알아보기 »</strong></a>
- 
-  <br />
- 
-  <p align="center">
-   <a href="https://github.com/devncore/wpf-control-relationship/stargazers"><img src="https://img.shields.io/github/stars/devncore/wpf-control-relationship" alt="Github Stars"></a>
-   <img src="https://img.shields.io/github/license/devncore/wpf-control-relationship" alt="License">
-   <a href="https://github.com/devncore/wpf-control-relationship/pulse"><img src="https://img.shields.io/github/commit-activity/m/devncore/wpf-control-relationship" alt="Commits-per-month"></a>
- </p>
-</div>
+| Star | License | Activity |
+|:----:|:-------:|:--------:|
+| <a href="https://github.com/devncore/wpf-control-relationship/stargazers"><img src="https://img.shields.io/github/stars/devncore/wpf-control-relationship" alt="Github Stars"></a> | <img src="https://img.shields.io/github/license/devncore/wpf-control-relationship" alt="License"> | <a href="https://github.com/devncore/wpf-control-relationship/pulse"><img src="https://img.shields.io/github/commit-activity/m/devncore/wpf-control-relationship" alt="Commits-per-month"></a> |
 
 <br />
-  
+
 ## 상속관계도
 ![image](https://user-images.githubusercontent.com/68521148/134800050-a19b73b1-db8a-485a-916a-98be327abe8f.PNG)
 
